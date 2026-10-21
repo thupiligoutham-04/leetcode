@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thupiligoutham-04/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/thupiligoutham-04/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/thupiligoutham-04/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
