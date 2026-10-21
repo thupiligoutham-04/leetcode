@@ -7,18 +7,16 @@ class Solution:
             while l > -1 and r < n and s[l] == s[r]:
                 l -= 1
                 r += 1
-            return l+1, r-1
-
-        # maxPal = ''
+            return l + 1, r - 1
+        x = y = 0
         first, last = 0, 0
         for i in range(n):
-            x,y = isPal(i, i)
+            if (x - y) // 2 > n - i:
+                break
+            x, y = isPal(i, i)
             if y - x > last - first:
                 first, last = x, y
             x, y = isPal(i, i + 1)
             if y - x > last - first:
                 first, last = x, y
-            # maxPal = odd if len(odd) > len(even) else even
-            # if len(ans) < len(maxPal):
-            #     ans = maxPal
         return s[first : last + 1]
