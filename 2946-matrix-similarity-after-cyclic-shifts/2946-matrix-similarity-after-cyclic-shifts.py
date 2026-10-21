@@ -1,6 +1,5 @@
 class Solution:
     def areSimilar(self, mat: List[List[int]], k: int) -> bool:
-        print(-4 % 3)
         m, n = len(mat), len(mat[0])
         k = k % n
         if k == 0:
