@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/thupiligoutham-04/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thupiligoutham-04/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thupiligoutham-04/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
