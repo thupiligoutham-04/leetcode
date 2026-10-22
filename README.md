@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/thupiligoutham-04/leetcode/tree/master/0178-rank-scores) |
 | [0627-swap-sex-of-employees](https://github.com/thupiligoutham-04/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/thupiligoutham-04/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/thupiligoutham-04/leetcode/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/thupiligoutham-04/leetcode/tree/master/1683-invalid-tweets) |
 ## Sorting
