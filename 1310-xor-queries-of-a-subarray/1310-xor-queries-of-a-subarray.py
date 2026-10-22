@@ -1,14 +1,11 @@
 class Solution:
     def xorQueries(self, arr: list[int], queries: list[list[int]]) -> list[int]:
         xor = 0
-        xor_arr = []
+        xor_arr = [0]
         for num in arr:
-            xor_arr.append(xor)
             xor ^= num
-        xor_arr.append(xor)
+            xor_arr.append(xor)
         res = []
-        for query in queries:
-            ans = xor_arr[query[0]] ^ xor_arr[query[1] + 1]
-            res.append(ans)
+        for left, right in queries:
+            res.append(xor_arr[left] ^ xor_arr[right + 1])
         return res
-        
