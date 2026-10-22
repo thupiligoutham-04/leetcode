@@ -3,12 +3,12 @@ class Solution:
         lsum, rprod = sum(nums), 1
         ans = -1
         for i in reversed(range(len(nums))):
-            lsum -= nums[i]  # Update from sum(nums[0..i]) -> sum(nums[0..i-1])
+            lsum -= nums[i]
             if lsum == rprod:
                 ans = i
-            if lsum < rprod:  # rprod can only increase, while lsum only decrease, so there no more matches
+            if lsum < rprod:
                 break
 
-            rprod *= nums[i]  # Update from prod(nums[i+1...n-1]) -> prod(nums[i..n-1])
+            rprod *= nums[i]
 
         return ans
