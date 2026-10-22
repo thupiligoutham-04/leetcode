@@ -5,7 +5,7 @@ class Solution:
         for i in reversed(range(len(nums))):
             lsum -= nums[i]
             if lsum == rprod:
-                ans = i
+                return i
             if lsum < rprod:
                 break
 
