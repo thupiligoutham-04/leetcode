@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thupiligoutham-04/leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/thupiligoutham-04/leetcode/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/thupiligoutham-04/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thupiligoutham-04/leetcode/tree/master/0231-power-of-two) |
 | [2487-remove-nodes-from-linked-list](https://github.com/thupiligoutham-04/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thupiligoutham-04/leetcode/tree/master/0231-power-of-two) |
 | [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Prefix Sum
 |  |
