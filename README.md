@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/thupiligoutham-04/leetcode/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/thupiligoutham-04/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2409-count-days-spent-together](https://github.com/thupiligoutham-04/leetcode/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3886-sum-of-sortable-integers](https://github.com/thupiligoutham-04/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/thupiligoutham-04/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0415-add-strings](https://github.com/thupiligoutham-04/leetcode/tree/master/0415-add-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/thupiligoutham-04/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2409-count-days-spent-together](https://github.com/thupiligoutham-04/leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/thupiligoutham-04/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
