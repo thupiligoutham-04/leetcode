@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/thupiligoutham-04/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
