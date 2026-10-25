@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/thupiligoutham-04/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thupiligoutham-04/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
@@ -115,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [3862-find-the-smallest-balanced-index](https://github.com/thupiligoutham-04/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
