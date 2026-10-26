@@ -6,14 +6,14 @@ class Solution:
         def dfs(x, y):
             curr_sum = 1
             grid[x][y] = 0
-            if x+1 < m and grid[x+1][y] == 1:
-                curr_sum += dfs(x+1, y)
-            if x-1 >= 0 and grid[x-1][y] == 1:
-                curr_sum += dfs(x-1, y)
-            if y+1 < n and grid[x][y+1] == 1:
-                curr_sum += dfs(x, y+1)
-            if y-1 >= 0 and grid[x][y-1] == 1:
-                curr_sum += dfs(x, y-1)
+            if x + 1 < m and grid[x + 1][y] == 1:
+                curr_sum += dfs(x + 1, y)
+            if x - 1 >= 0 and grid[x - 1][y] == 1:
+                curr_sum += dfs(x - 1, y)
+            if y + 1 < n and grid[x][y + 1] == 1:
+                curr_sum += dfs(x, y + 1)
+            if y - 1 >= 0 and grid[x][y - 1] == 1:
+                curr_sum += dfs(x, y - 1)
             return curr_sum
 
         for i in range(m):
