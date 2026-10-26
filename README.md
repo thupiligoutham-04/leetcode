@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thupiligoutham-04/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thupiligoutham-04/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -130,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thupiligoutham-04/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thupiligoutham-04/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thupiligoutham-04/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting
