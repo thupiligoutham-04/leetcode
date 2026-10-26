@@ -4,15 +4,16 @@ class Solution:
         max_area = 0
 
         def dfs(x, y):
-            if x < 0 or x >= m or y < 0 or y >= n or grid[x][y] == 0:
-                return 0
             curr_sum = 1
             grid[x][y] = 0
-            dir = [(0, 1), (1, 0), (-1, 0), (0, -1)]
-            for r, c in dir:
-                row = r + x
-                col = c + y
-                curr_sum += dfs(row, col)
+            if x+1 < m and grid[x+1][y] == 1:
+                curr_sum += dfs(x+1, y)
+            if x-1 >= 0 and grid[x-1][y] == 1:
+                curr_sum += dfs(x-1, y)
+            if y+1 < n and grid[x][y+1] == 1:
+                curr_sum += dfs(x, y+1)
+            if y-1 >= 0 and grid[x][y-1] == 1:
+                curr_sum += dfs(x, y-1)
             return curr_sum
 
         for i in range(m):
