@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/thupiligoutham-04/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2409-count-days-spent-together](https://github.com/thupiligoutham-04/leetcode/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thupiligoutham-04/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/thupiligoutham-04/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thupiligoutham-04/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thupiligoutham-04/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/thupiligoutham-04/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/thupiligoutham-04/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/thupiligoutham-04/leetcode/tree/master/3886-sum-of-sortable-integers) |
