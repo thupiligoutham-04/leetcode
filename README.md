@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thupiligoutham-04/leetcode/tree/master/0130-surrounded-regions) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thupiligoutham-04/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/thupiligoutham-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thupiligoutham-04/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thupiligoutham-04/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
