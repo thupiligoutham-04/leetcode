@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/thupiligoutham-04/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thupiligoutham-04/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2409-count-days-spent-together](https://github.com/thupiligoutham-04/leetcode/tree/master/2409-count-days-spent-together) |
+| [3838-weighted-word-mapping](https://github.com/thupiligoutham-04/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/thupiligoutham-04/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/thupiligoutham-04/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/thupiligoutham-04/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3862-find-the-smallest-balanced-index](https://github.com/thupiligoutham-04/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/thupiligoutham-04/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/thupiligoutham-04/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/thupiligoutham-04/leetcode/tree/master/0415-add-strings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3838-weighted-word-mapping](https://github.com/thupiligoutham-04/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
