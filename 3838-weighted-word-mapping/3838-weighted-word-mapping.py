@@ -6,5 +6,5 @@ class Solution:
             for i in range(len(word)):
                 sum += weights[ord(word[i]) - 97]
             sum %= 26
-            ans.append(chr(ord('z') - sum))
+            ans.append(chr(122 - sum))
         return "".join(ans)
