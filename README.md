@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/thupiligoutham-04/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/thupiligoutham-04/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1310-xor-queries-of-a-subarray](https://github.com/thupiligoutham-04/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/thupiligoutham-04/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thupiligoutham-04/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/thupiligoutham-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/thupiligoutham-04/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/thupiligoutham-04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/thupiligoutham-04/leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/thupiligoutham-04/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/thupiligoutham-04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/thupiligoutham-04/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/thupiligoutham-04/leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/thupiligoutham-04/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/thupiligoutham-04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -172,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/thupiligoutham-04/leetcode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/thupiligoutham-04/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/thupiligoutham-04/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/thupiligoutham-04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thupiligoutham-04/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/thupiligoutham-04/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thupiligoutham-04/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 <!---LeetCode Topics End-->
