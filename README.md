@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/thupiligoutham-04/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thupiligoutham-04/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thupiligoutham-04/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/thupiligoutham-04/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/thupiligoutham-04/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thupiligoutham-04/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thupiligoutham-04/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/thupiligoutham-04/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thupiligoutham-04/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/thupiligoutham-04/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/thupiligoutham-04/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/thupiligoutham-04/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thupiligoutham-04/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/thupiligoutham-04/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
